@@ -1,0 +1,182 @@
+{
+    "1": {
+        "word": "habeo",
+        "full": "habeo, habere, habui, habitum",
+        "translation": "to have, hold, possess, consider, regard",
+        "type": "present active indicative 1st person singular"
+    },
+    "2": {
+        "word": "habes",
+        "full": "habeo, habere, habui, habitum",
+        "translation": "to have, hold, possess, consider, regard",
+        "type": "present active indicative 2nd person singular"
+    },
+    "3": {
+        "word": "habet",
+        "full": "habeo, habere, habui, habitum",
+        "translation": "to have, hold, possess, consider, regard",
+        "type": "present active indicative 3rd person singular"
+    },
+    "4": {
+        "word": "habui",
+        "full": "habeo, habere, habui, habitum",
+        "translation": "to have, hold, possess, consider, regard",
+        "type": "perfect active indicative 1st person singular"
+    },
+    "5": {
+        "word": "satio",
+        "full": "satio, satiare, satiavi, satiatum",
+        "translation": "to satisfy, sate",
+        "type": "present active indicative 1st person singular"
+    },
+    "6": {
+        "word": "satia",
+        "full": "satio, satiare, satiavi, satiatum",
+        "translation": "to satisfy, sate",
+        "type": "present active imperative 2nd person singular"
+    },
+    "7": {
+        "word": "juvas",
+        "full": "iuvo, iuvare, iuvi, iutum",
+        "translation": "to help, aid, assist; to please",
+        "type": "present active indicative 2nd person singular"
+    },
+    "8": {
+        "word": "juvat",
+        "full": "iuvo, iuvare, iuvi, iutum",
+        "translation": "to help, aid, assist; to please",
+        "type": "present active indicative 3rd person singular"
+    },
+    "9": {
+        "word": "juvor",
+        "full": "iuvo, iuvare, iuvi, iutum",
+        "translation": "to help, aid, assist; to please",
+        "type": "present passive indicative 1st person singular"
+    },
+    "10": {
+        "word": "juvem",
+        "full": "iuvo, iuvare, iuvi, iutum",
+        "translation": "to help, aid, assist; to please",
+        "type": "present active subjunctive 1st person singular"
+    },
+    "11": {
+        "word": "juves",
+        "full": "iuvo, iuvare, iuvi, iutum",
+        "translation": "to help, aid, assist; to please",
+        "type": "present active subjunctive 2nd person singular"
+    },
+    "12": {
+        "word": "juvet",
+        "full": "iuvo, iuvare, iuvi, iutum",
+        "translation": "to help, aid, assist; to please",
+        "type": "present active subjunctive 3rd person singular"
+    },
+    "13": {
+        "word": "juver",
+        "full": "iuvo, iuvare, iuvi, iutum",
+        "translation": "to help, aid, assist; to please",
+        "type": "present passive subjunctive 1st person singular"
+    },
+    "14": {
+        "word": "juvit",
+        "full": "iuvo, iuvare, iuvi, iutum",
+        "translation": "to help, aid, assist; to please",
+        "type": "perfect active indicative 3rd person singular"
+    },
+    "15": {
+        "word": "sumus",
+        "full": "sum, esse, fui, futurum",
+        "translation": "to be, exist",
+        "type": "present active indicative 1st person plural"
+    },
+    "16": {
+        "word": "simus",
+        "full": "sum, esse, fui, futurum",
+        "translation": "to be, exist",
+        "type": "present active subjunctive 1st person plural"
+    },
+    "17": {
+        "word": "sitis",
+        "full": "sum, esse, fui, futurum",
+        "translation": "to be, exist",
+        "type": "present active subjunctive 2nd person plural"
+    },
+    "18": {
+        "word": "sunto",
+        "full": "sum, esse, fui, futurum",
+        "translation": "to be, exist",
+        "type": "future active imperative 3rd person plural"
+    },
+    "19": {
+        "word": "estis",
+        "full": "sum, esse, fui, futurum",
+        "translation": "to be, exist",
+        "type": "present active indicative 2nd person plural"
+    },
+    "20": {
+        "word": "erant",
+        "full": "sum, esse, fui, futurum",
+        "translation": "to be, exist",
+        "type": "imperfect active indicative 3rd person plural"
+    },
+    "21": {
+        "word": "erunt",
+        "full": "sum, esse, fui, futurum",
+        "translation": "to be, exist",
+        "type": "future active indicative 3rd person plural"
+    },
+    "22": {
+        "word": "erint",
+        "full": "sum, esse, fui, futurum",
+        "translation": "to be, exist",
+        "type": "future active indicative 3rd person plural"
+    },
+    "23": {
+        "word": "essem",
+        "full": "sum, esse, fui, futurum",
+        "translation": "to be, exist",
+        "type": "imperfect active subjunctive 1st person singular"
+    },
+    "24": {
+        "word": "esses",
+        "full": "sum, esse, fui, futurum",
+        "translation": "to be, exist",
+        "type": "imperfect active subjunctive 2nd person singular"
+    },
+    "25": {
+        "word": "esset",
+        "full": "sum, esse, fui, futurum",
+        "translation": "to be, exist",
+        "type": "imperfect active subjunctive 3rd person singular"
+    },
+    "26": {
+        "word": "forem",
+        "full": "sum, esse, fui, futurum",
+        "translation": "to be, exist",
+        "type": "imperfect active subjunctive 1st person singular"
+    },
+    "27": {
+        "word": "fores",
+        "full": "sum, esse, fui, futurum",
+        "translation": "to be, exist",
+        "type": "imperfect active subjunctive 2nd person singular"
+    },
+    "28": {
+        "word": "foret",
+        "full": "sum, esse, fui, futurum",
+        "translation": "to be, exist",
+        "type": "imperfect active subjunctive 3rd person singular"
+    },
+    "29": {
+        "word": "fuere",
+        "full": "sum, esse, fui, futurum",
+        "translation": "to be, exist",
+        "type": "perfect active indicative 3rd person plural"
+    },
+    "30": {
+        "word": "fuero",
+        "full": "sum, esse, fui, futurum",
+        "translation": "to be, exist",
+        "type": "future perfect active indicative 1st person singular"
+    }
+}
