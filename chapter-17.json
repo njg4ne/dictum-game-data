@@ -1,0 +1,110 @@
+{
+    "1": {
+        "word": "cujus",
+        "full": "qui, quae, quod",
+        "translation": "who, which, what, that",
+        "type": "genitive singular"
+    },
+    "2": {
+        "word": "caeci",
+        "full": "caecus, -a, -um",
+        "translation": "blind",
+        "type": "positive genitive singular masculine"
+    },
+    "3": {
+        "word": "caeco",
+        "full": "caecus, -a, -um",
+        "translation": "blind",
+        "type": "positive dative singular masculine"
+    },
+    "4": {
+        "word": "caece",
+        "full": "caecus, -a, -um",
+        "translation": "blind",
+        "type": "positive vocative singular masculine"
+    },
+    "5": {
+        "word": "caeca",
+        "full": "caecus, -a, -um",
+        "translation": "blind",
+        "type": "positive nominative singular feminine"
+    },
+    "6": {
+        "word": "levis",
+        "full": "levis, leve",
+        "translation": "light, slight, easy, trivial",
+        "type": "positive genitive singular masculine"
+    },
+    "7": {
+        "word": "levem",
+        "full": "levis, leve",
+        "translation": "light, slight, easy, trivial",
+        "type": "positive accusative singular masculine"
+    },
+    "8": {
+        "word": "leves",
+        "full": "levis, leve",
+        "translation": "light, slight, easy, trivial",
+        "type": "positive nominative plural masculine"
+    },
+    "9": {
+        "word": "levum",
+        "full": "levis, leve",
+        "translation": "light, slight, easy, trivial",
+        "type": "positive genitive plural masculine"
+    },
+    "10": {
+        "word": "levia",
+        "full": "levis, leve",
+        "translation": "light, slight, easy, trivial",
+        "type": "positive nominative plural neuter"
+    },
+    "11": {
+        "word": "coepe",
+        "full": "-, coepisse, coepi, coeptum",
+        "translation": "began (only used in the perfect system)",
+        "type": "present active imperative 2nd person singular"
+    },
+    "12": {
+        "word": "coepi",
+        "full": "-, coepisse, coepi, coeptum",
+        "translation": "began (only used in the perfect system)",
+        "type": "perfect active indicative 1st person singular"
+    },
+    "13": {
+        "word": "cupio",
+        "full": "cupio, cupere, cupivi, cupitum",
+        "translation": "to desire, wish, long for",
+        "type": "present active indicative 1st person singular"
+    },
+    "14": {
+        "word": "cupis",
+        "full": "cupio, cupere, cupivi, cupitum",
+        "translation": "to desire, wish, long for",
+        "type": "present active indicative 2nd person singular"
+    },
+    "15": {
+        "word": "cupit",
+        "full": "cupio, cupere, cupivi, cupitum",
+        "translation": "to desire, wish, long for",
+        "type": "present active indicative 3rd person singular"
+    },
+    "16": {
+        "word": "deleo",
+        "full": "deleo, delere, delevi, deletum",
+        "translation": "to destroy, wipe out, erase",
+        "type": "present active indicative 1st person singular"
+    },
+    "17": {
+        "word": "deles",
+        "full": "deleo, delere, delevi, deletum",
+        "translation": "to destroy, wipe out, erase",
+        "type": "present active indicative 2nd person singular"
+    },
+    "18": {
+        "word": "delet",
+        "full": "deleo, delere, delevi, deletum",
+        "translation": "to destroy, wipe out, erase",
+        "type": "present active indicative 3rd person singular"
+    }
+}
